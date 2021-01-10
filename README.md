@@ -1,2 +1,2 @@
-# Competitive_Programming_Practice
-Repo for my Competitive Programming Code
+# Competitive Programming
+Repo for my Competitive Programming Code!
